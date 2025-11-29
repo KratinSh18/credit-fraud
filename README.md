@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection using Autoencoders in Keras
+# Credit Card Fraud Detection 
 
  The source code is compatible with TensorFlow 1.1 and Keras 2.0.4
 
@@ -11,4 +11,5 @@ Interested in deeper understanding of Machine Learning algorithms? Implement the
 </a>
 
 <a href="https://leanpub.com/hmls" target="_blank">Read the book here</a>
+
 
